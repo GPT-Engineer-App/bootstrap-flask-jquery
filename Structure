@@ -1,0 +1,15 @@
+my_flask_app/
+│
+├── app.py
+├── static/
+│   ├── css/
+│   │   └── styles.css
+│   ├── js/
+│   │   └── scripts.js
+│   └── bootstrap/
+│       ├── css/
+│       │   └── bootstrap.min.css
+│       └── js/
+│           └── bootstrap.bundle.min.js
+└── templates/
+    └── index.html
